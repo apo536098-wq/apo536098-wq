@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --># # Selam, ben Apo! 👋
 
+# Selam, ben Kadir! 👋
+
 ### 📊 GitHub İstatistiklerim
-![Apo's GitHub stats](https://github-readme-stats.vercel.app/api?username=apo536098-wq&show_icons=true&theme=radical)
+![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=apo536098-wq&show_icons=true&theme=radical)
 
 ### 📈 Aktivite Grafiğim
-![Apo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=apo536098-wq&theme=dracula)
+![Kadir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=apo536098-wq&theme=dracula)
 
 ### 💻 Kullandığım Diller
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apo536098-wq&layout=compact&theme=vision-friendly-dark)
