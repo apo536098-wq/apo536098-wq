@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 ### 📈 Aktivite Grafiğim
 ![Kadir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=apo536098-wq&theme=dracula)
 
-### 💻 En Çok Kullandığım Diller
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apo536098-wq&layout=compact&theme=vision-friendly-dark)
+
