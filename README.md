@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># Selam, ben Kadir! 👋
+--># # Selam, ben Apo! 👋
 
 ### 📊 GitHub İstatistiklerim
-![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=apo536098-wq&show_icons=true&theme=radical)
+![Apo's GitHub stats](https://github-readme-stats.vercel.app/api?username=apo536098-wq&show_icons=true&theme=radical)
 
 ### 📈 Aktivite Grafiğim
-![Kadir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=apo536098-wq&theme=dracula)
+![Apo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=apo536098-wq&theme=dracula)
 
 ### 💻 Kullandığım Diller
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apo536098-wq&layout=compact&theme=vision-friendly-dark)
