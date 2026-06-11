@@ -18,8 +18,7 @@
 
 ## 📊 LIVE NETWORK METRICS & RUNTIME ACTIVITY (CANLI MONITOR)
 
-> 💡 **NOT:** Aşağıdaki paneller statik birer resim değildir. GitHub API'leri üzerinden senin gerçek çalışma günlerini, kodlama sürekliliğini, hangi günlerde aktif olduğunu ve geliştirdiğin dilleri tamamen canlı (real-time) olarak otomatik çeker.
-
+>
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
