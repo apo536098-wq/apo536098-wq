@@ -24,17 +24,27 @@
 ### 💻 [TECH STACK & CORE FRAMEWORKS]
 
 <p align="left">
+  <!-- Diller -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <br>
+  <!-- Araçlar & Güvenlik -->
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-007ACC?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+---
+
+### 🤖 [CENTRAL AI INTERFACE / MERKEZİ YAPAY ZEKA BAĞLANTISI]
+
+> **Sistem Notu:** Profil sahibinin (Kadir Erkan) siber güvenlik projeleri, askeri robot simülasyonları ve kullandığı teknolojiler (Python, Rust, Kali) hakkında bilgi almak için merkezi yapay zeka asistanını tetikleyin.
+
+[![Ask Me Anything](https://img.shields.io/badge/🤖_Siber_Yapay_Zekaya-Soru_Sor-00ff66?style=for-the-badge&logo=probot&logoColor=black&labelColor=000000)](https://gemini.google.com/)
 
 ---
 
@@ -53,4 +63,5 @@
 ### 🔒 [SECURE HANDSHAKE / İLETİŞİM]
 
 ```bash
-$ssh-keygen -t rsa -b 4096 -C "abdulkadir.erkan"$ echo "Bağlantı kurmaya hazır."
+$ ssh-keygen -t rsa -b 4096 -C "abdulkadir.erkan"
+$ echo "Bağlantı kurmaya hazır."
